@@ -1,0 +1,11 @@
+program mytest;
+
+n, m : integer;
+q : array [0] of integer;
+
+beginprogram
+
+read n;
+read q[4];
+
+endprogram
