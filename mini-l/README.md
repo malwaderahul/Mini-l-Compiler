@@ -1,5 +1,4 @@
-### CS152 Project Phase 3: Code Generation
-### Nicolas Lawler
+### Rahul Malwade 
 
 ## Make Commands
 
